@@ -1,2 +1,2 @@
-morse-code-translation for fun
+morse-code-translator for fun
 
